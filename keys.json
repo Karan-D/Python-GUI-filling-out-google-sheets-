@@ -1,12 +1,10 @@
 {
   "type": "service_account",
-  "project_id": "teste-app-314923",
-  "private_key_id": "dca0b2ebe222f704ef9872bdbccac769bc0c79dd",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDPOGH0vpD8pNNu\nr1I60Hvn9t+sEnkL30VlQbzsJA6hvdmuwDKYHB032VHeZKyo96H16ZAQdgl93kHU\nI9m/Iz77biIFeWoT21ZAuFuEwA7h9N9wXd2FPzKaSHK/AR9vbhgGwauYiAiS+uDh\n9uwwZfxd+mgF4gfnxdtnR5eBkWcpMk40Y+2r62ZrKp1qC/5AVuxf8cjC5nxFicox\nc8kskhFXD6XK5P4ffDQ0GVBZPcr/EEILRCVfi5i3vXo8D02AHs6b0+yYEV8ZSo8s\nxTFH5qvrG9wvuvpyeb7HktkKwTVO+3RRbSQu6Se3Zz6ocpbgmc2B9hrO4KLEbHr/\nO5CV/dd5AgMBAAECggEACXOFwz0QXZeSdatNLbXN2vT/e2iNyRD2SDGlAWO9H5sq\nQy5MuHOa0Q3qTiGLHvtJca8FFT0e/nTNTZTThQRhZmQd7OA+aniv8Mx/zxiX7S4n\nJUfAt2e8If2RLz1IvuM3eRJrBk5ZDsQezuudVvFF3w7xYOhP6j4z3TxukHgua3pk\n7mXgymeGzm3UhvgarWKjtQ/EcViYpfWW1PuD/JRb7otNOklwRIElf+QOcxMZhVMz\nFLdMQzO6xhR3xiB9ulp3mDYu5NidnOHHCNsTQQGGljqPpLUvL8arb4epcYZ6xS7t\nhh9o7Rg9atKPD7vVUOBM+OE8zc2cAYQ6JmlHpMLlAQKBgQD8HBL87jCPEbgoVKvg\nAGier2rbYiHt2KZ8L0tA6Ev7Qlf1OHbUY9CNLvUVrnbEGzi88r2QIi2/nheVUCbn\nLZSYAQ4Tn5SusnBopmEUBWCby6/zvLOtbAtIeMVf3jzaYTFwYkgRZY2zhhaQlBX+\n8pesWy/uO8vcmZUpnT8m0YyTAQKBgQDSavqQLMsbLt7VJnM8flwG0tGhMub21358\n3DL2Shbfx8Sb/8s+EVJY1bYjFRmZzAZVEUyX344hvhA7xxGpCqLMKojGRANrxOi9\nDc5QXF/3B1qIhBYdl7IXhp+SDw0q0LIzCK7b/twUQWsRdyvpU7CLnNZox1TPJi+H\nBth4XbhceQKBgQCrkY96gb6aHrzs9XJiZuTL2SUnV4kvjBkAuk7ERVIwE944C80S\njTsIWcSAlNJOcxgRvkAzLo9jr/rsqjdPbD2LlGw3/on4uYa2MUQvk9lDLUL45JqC\nkty63TW1IFDZbPtwN/JDpJDic4Y3rg+qCP4fVY8w2ZDK99oDD/hCOqkoAQKBgQC6\nvTpVjYtLOpOD8zW98B5X5+0m9HfJhYG56epIbYRTYYT5NU/4a4L7V97mz6kCtvC/\nujSRbFNFWtopUwg3Tzsfmnf8DQxELmKmtYPuCa0ZHKuaEC9YX/IrsswW4ci7wK8F\nX6VflJVYXJ5ax7puvlkl7jDSmGSJ2se/O7INUI93cQKBgAtGCsYbA/Go2N9+1bAp\npIEU4A89/jWLHxMvmIu9TeJfmmC1jXtVdhHxacY15LuoknOuxfMGR/S3c5g+weYU\nG0IS4v+aG0i8M4k3eRuJzl4jcyFXYTa4l1lveZ/CXBexOzS+jw038YLKYgFrQNN8\nS1yMGEMkIrTcsOKR8JSr3FRv\n-----END PRIVATE KEY-----\n",
-  "client_email": "python-tester@teste-app-314923.iam.gserviceaccount.com",
-  "client_id": "100952256732331600263",
+  "project_id": "YOUR-PROJECT-ID",
+  "private_key_id": "YOUR-ID-KEY",
+  "private_key": "-----BEGIN PRIVATE KEY----- YOUR-PRIVATE-KEY
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-tester%40teste-app-314923.iam.gserviceaccount.com"
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/YOUR-ACCOUNT-GSERVICES"
 }
